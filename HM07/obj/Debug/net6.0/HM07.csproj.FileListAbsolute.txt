@@ -1,0 +1,15 @@
+C:\Users\Regina\Desktop\Homework\GBHW02\HM07\bin\Debug\net6.0\HM07.exe
+C:\Users\Regina\Desktop\Homework\GBHW02\HM07\bin\Debug\net6.0\HM07.deps.json
+C:\Users\Regina\Desktop\Homework\GBHW02\HM07\bin\Debug\net6.0\HM07.runtimeconfig.json
+C:\Users\Regina\Desktop\Homework\GBHW02\HM07\bin\Debug\net6.0\HM07.dll
+C:\Users\Regina\Desktop\Homework\GBHW02\HM07\bin\Debug\net6.0\HM07.pdb
+C:\Users\Regina\Desktop\Homework\GBHW02\HM07\obj\Debug\net6.0\HM07.csproj.AssemblyReference.cache
+C:\Users\Regina\Desktop\Homework\GBHW02\HM07\obj\Debug\net6.0\HM07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Regina\Desktop\Homework\GBHW02\HM07\obj\Debug\net6.0\HM07.AssemblyInfoInputs.cache
+C:\Users\Regina\Desktop\Homework\GBHW02\HM07\obj\Debug\net6.0\HM07.AssemblyInfo.cs
+C:\Users\Regina\Desktop\Homework\GBHW02\HM07\obj\Debug\net6.0\HM07.csproj.CoreCompileInputs.cache
+C:\Users\Regina\Desktop\Homework\GBHW02\HM07\obj\Debug\net6.0\HM07.dll
+C:\Users\Regina\Desktop\Homework\GBHW02\HM07\obj\Debug\net6.0\refint\HM07.dll
+C:\Users\Regina\Desktop\Homework\GBHW02\HM07\obj\Debug\net6.0\HM07.pdb
+C:\Users\Regina\Desktop\Homework\GBHW02\HM07\obj\Debug\net6.0\HM07.genruntimeconfig.cache
+C:\Users\Regina\Desktop\Homework\GBHW02\HM07\obj\Debug\net6.0\ref\HM07.dll
